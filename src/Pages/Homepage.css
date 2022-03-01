@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://c0.wallpaperflare.com/preview/263/921/102/business-communication-computer-concept.jpg);
+    background-size: cover;
+}
+  
+.home{
+
+    margin-top: 4%;
+    margin-left: 15%;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+.first{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    stroke: aliceblue;
+    margin-left: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
